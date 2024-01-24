@@ -1,0 +1,117 @@
+{
+    "Newbie": {
+        "level_range": [
+            0,
+            3
+        ],
+        "config": {
+            "width": [
+                30,
+                30
+            ],
+            "height": [
+                30,
+                30
+            ],
+            "step_cost": 1,
+            "step_divider": 4,
+            "num_cores": 25,
+            "item_value": 1,
+            "min_num_monsters": 4,
+            "max_num_monsters": 6,
+            "exit_distance": 15
+        }
+    },
+    "Junior": {
+        "level_range": [
+            4,
+            5
+        ],
+        "config": {
+            "width": [
+                30,
+                35
+            ],
+            "height": [
+                30,
+                35
+            ],
+            "step_cost": 1,
+            "step_divider": 4,
+            "num_cores": 25,
+            "item_value": 1,
+            "min_num_monsters": 5,
+            "max_num_monsters": 6,
+            "exit_distance": 18
+        }
+    },
+    "Intermediate": {
+        "level_range": [
+            6,
+            8
+        ],
+        "config": {
+            "width": [
+                36,
+                38
+            ],
+            "height": [
+                36,
+                38
+            ],
+            "step_cost": 1,
+            "step_divider": 4,
+            "num_cores": 30,
+            "item_value": 1,
+            "min_num_monsters": 5,
+            "max_num_monsters": 6,
+            "exit_distance": 20
+        }
+    },
+    "Senior": {
+        "level_range": [
+            9,
+            15
+        ],
+        "config": {
+            "width": [
+                39,
+                45
+            ],
+            "height": [
+                39,
+                45
+            ],
+            "step_cost": 1,
+            "step_divider": 4,
+            "num_cores": 30,
+            "item_value": 1,
+            "min_num_monsters": 6,
+            "max_num_monsters": 10,
+            "exit_distance": 20
+        }
+    },
+    "Expert": {
+        "level_range": [
+            16,
+            20
+        ],
+        "config": {
+            "width": [
+                46,
+                50
+            ],
+            "height": [
+                46,
+                50
+            ],
+            "step_cost": 1,
+            "step_divider": 4,
+            "num_cores": 30,
+            "item_value": 1,
+            "min_num_monsters": 10,
+            "max_num_monsters": 14,
+            "exit_distance": 30
+        }
+    }
+}

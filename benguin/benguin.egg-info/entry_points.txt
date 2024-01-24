@@ -1,0 +1,2 @@
+[console_scripts]
+benguin = benguin:benguin

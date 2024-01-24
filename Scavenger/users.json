@@ -1,0 +1,25 @@
+{
+    "vexi": {
+        "name": "vexi",
+        "score": 4354,
+        "level": 5,
+        "xp": 0,
+        "xp_to_next_level": 250,
+        "money": 2333,
+        "drone_speed": 3,
+        "drone_sneak": 2,
+        "drone_range": 3,
+        "drone_health": 5
+    },
+    "d": {
+        "score": 6177,
+        "level": 5,
+        "xp": 172,
+        "xp_to_next_level": 250,
+        "money": 2371,
+        "drone_speed": 5,
+        "drone_sneak": 5,
+        "drone_range": 5,
+        "drone_health": 5
+    }
+}
